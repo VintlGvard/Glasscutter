@@ -1,0 +1,17 @@
+{
+    "display": {
+        "title": "Glasscutter",
+        "description": "VintlGvard's Glasscutter datapack (v1.0, for MC1.14+)",
+        "icon": {
+            "item": "minecraft:magenta_stained_glass"
+        },
+        "announce_to_chat": false,
+        "show_toast": false
+    },
+    "parent": "glasscutter:root",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}
