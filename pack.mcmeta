@@ -14,10 +14,6 @@
                 "text": "Glasscutter",
                 "color": "white",
                 "bold": false
-            },
-            {
-                "text": "\nv1.0, for MC1.14+",
-                "color":"gray"
             }
         ]
     }
