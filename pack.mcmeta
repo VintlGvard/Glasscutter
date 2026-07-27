@@ -1,6 +1,12 @@
 {
     "pack": {
-        "pack_format":5,
+        "pack_format": 48,
+        "supported_formats": {
+            "min_inclusive": 48,
+            "max_inclusive": 999
+        },
+        "min_format": 48,
+        "max_format": [999, 999],
         "description": [
             {
                 "text": "VintlGvard",
@@ -14,6 +20,24 @@
                 "text": "Glasscutter",
                 "color": "white",
                 "bold": false
+            }
+        ]
+    },
+    "overlays": {
+        "entries": [
+            {
+                "formats": {
+                    "min_inclusive": 48,
+                    "max_inclusive": 56
+                },
+                "directory": "overlay_48_56"
+            },
+            {
+                "formats": {
+                    "min_inclusive": 57,
+                    "max_inclusive": 63
+                },
+                "directory": "overlay_57_63"
             }
         ]
     }

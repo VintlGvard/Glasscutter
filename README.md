@@ -1,15 +1,35 @@
+<div align="center">
+
+<img src="pack.png" alt="Glasscutter" width="128" height="128">
+
 # Glasscutter
-## Description / Описание
+
+[![Minecraft](https://img.shields.io/badge/Minecraft-1.14%2B-brightgreen?logo=minecraft)](#)
+[![Type](https://img.shields.io/badge/Type-Datapack-blue)](#)
+[![Author](https://img.shields.io/badge/Author-VintlGvard-red)](#)
+
+</div>
+
+## 📖 Description / Описание
+
 [en] Tired of taking a long time to craft glass panels? This datapack is a salvation for you! With its help you will simplify the creation of glass panels of any color, as well as make crafting more convenient and logical
 
 [ru] Устали тратить много времени на изготовление стеклянных панелей? Этот датапак – спасение для вас! С его помощью вы упростите создание стеклянных панелей любого цвета, а также сделаете крафт более удобным и логичным
 
-## Installation / Установка
+## ✨ Features / Возможности
+
+[en] Cut any glass block (regular + all 16 colors) into **3 glass panes** in the **stonecutter**
+
+[ru] Режьте любой блок стекла (обычный + все 16 цветов) на **3 панели** в **камнерезе**
+
+## 📥 Installation / Установка
 
 [en] To install the datapack, place the datapack zip file in the `datapacks` folder of your world. If you are installing a mod, then place the jar file of the mod in the `.minecraft/mods` folder
 
 [ru] Чтобы установить датапак, поместите zip-файл датапака в папку `datapacks` вашего мира.
 Если вы устанавливаете мод, поместите jar-файл мода в папку `.minecraft/mods`
 
+---
+
 <div id="sponsored">  <a href="https://play2go.cloud/?ref_id=axxR5TvWdII">
-    <img src="https://i.ibb.co/mGyKd6n/Play2go.png" alt="Supported by the best hosting Play2Go!"/>
+    <img src="https://i.ibb.co/GQYWdYhq/Play2Go.png" alt="Supported by the best hosting Play2Go!"/>
